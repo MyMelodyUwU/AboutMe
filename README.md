@@ -9,6 +9,3 @@ About Me:
 
 Website: http://139.180.166.10/ 
 (Collaborated with friends, written with pyBottle framework). 
-
-https://youtu.be/mVZEJH8outs
-
